@@ -1,0 +1,11 @@
+{
+    "name": "bdlangton/php",
+    "description": "Miscellaneous PHP classes",
+    "version": "1.0",
+    "autoload": {
+        "psr-4": {"Bdlangton\\Php\\": "src"}
+    },
+    "require": {
+        "symplify/easy-coding-standard": "^6.0"
+    }
+}
