@@ -6,6 +6,6 @@
         "psr-4": {"Bdlangton\\Php\\": "src"}
     },
     "require": {
-        "symplify/easy-coding-standard": "^6.0"
+        "symplify/easy-coding-standard": "^11.0"
     }
 }
